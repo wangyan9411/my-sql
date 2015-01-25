@@ -1,0 +1,2 @@
+rm *.dbx
+rm *.db
